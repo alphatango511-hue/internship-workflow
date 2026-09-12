@@ -1,19 +1,20 @@
-# internship-workflow
-My internship work, projects, documentation, and learning progress.
-# Internship Workflow
+# NETWORKWALKS-[AlphaTango]-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
-This repository contains my work, learning notes, projects, and screenshots completed during the internship program.
+## Week 1 Project: Cybersecurity & Pentesting Lab Setup
 
-## Repository Structure
+### Steps I Followed:
+1. Downloaded and installed VirtualBox.
+2. Downloaded the Kali Linux ISO file.
+3. Created a new Virtual Machine in VirtualBox.
+4. Installed Kali Linux on the Virtual Machine.
+5. Configured the network settings for the lab.
+6. [Add any other steps you did]
 
-- `learning/` — Learning notes and study materials
-- `projects/` — Internship projects and project documentation
-- `screenshots/` — Screenshots showing my work and progress
+### Screenshots:
+- [Screenshot 1: VirtualBox showing the Kali VM]
+- [Screenshot 2: Kali Linux running inside the VM]
+- [Add more screenshots as needed]
 
-## Progress
-
-I will update this repository as I complete each internship task.
-
-## Purpose
-
-This repository is used to document my learning journey, practical work, and progress throughout the internship.
+### Troubleshooting:
+- Problem: [What problem you faced]
+- Solution: [How you solved it]
